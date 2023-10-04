@@ -3,7 +3,7 @@ SDET-IV | Full-Stack QA Automatioin Engineer | Python, Java, JavaScript | Seleni
 
 Hi 👋, I'm Chittaranjan Swain. 
 A passionate software tester, QA Automation Engineer, SDET,  working with Bread Financial.
-@The_Uncanny_Guy
+@The_Uncanny_Guy (https://twitter.com/The_Uncanny_Guy)
 
 🔭 I’m currently using Selenium, Python, PyTest, Java, Cucumber, TestNG, Cypress, JavaScript, K6, GitHub Actions, Jenkins, Docker, Codefresh
 
