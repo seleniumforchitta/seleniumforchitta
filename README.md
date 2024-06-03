@@ -24,12 +24,13 @@ Blogs posts
 https://chittaranjansw.blogspot.com/ 
 
 Connect with me:
-LinkedIn - https://www.linkedin.com/in/chittaranjan-swain/
+LinkedIn - [@chittaranjan-swain](https://www.linkedin.com/in/chittaranjan-swain/))
 
-Twitter/X - @The_Uncanny_Guy
+Twitter/X - [@The_Uncanny_Guy](https://x.com/The_Uncanny_Guy)
 
-Instagram - @
+Instagram - 
 
 
 Languages and Tools:
 aws cypress docker figma git Python java javascript jenkins linux mocha mongodb mssql postman selenium
+selenium selenium cypress java python go bash docker kubernetes jenkins git elasticsearch grafana kibana mariadb linux
