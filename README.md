@@ -24,11 +24,11 @@ Blogs posts
 https://chittaranjansw.blogspot.com/ 
 
 Connect with me:
-LinkedIn - https://www.linkedin.com/in/chittaranjan-swain-984b3558/
+LinkedIn - https://www.linkedin.com/in/chittaranjan-swain/
 
 Twitter/X - @The_Uncanny_Guy
 
-Instagram - @crsspeaks
+Instagram - @
 
 
 Languages and Tools:
