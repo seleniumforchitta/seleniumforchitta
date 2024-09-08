@@ -1,10 +1,10 @@
 # Chittaranjan-Swain
-SDET-IV | Full-Stack QA Automatioin Engineer | Python, Java, JavaScript | Selenium | Cypress | TestNG, Cucumber | PyTest | Unix Shell Scripting | Postman | REST-Assured | K6 | SQL | JMeter | Azure | Jenkins | CodeFresh
+SDET-IV | Test Automation Specialist 🌐 | Python, Java, JavaScript | Selenium, Cypress | Cucumber, TestNG, PyTest | Unix Shell | RESTAssured | Postman, K6, JMeter | SQL | Azure DevOps, Jenkins, CodeFresh | CI/CD - Driving Quality 🚀
 
 Hi 👋, I'm Chittaranjan Swain. 
-A passionate software tester, QA Automation Engineer, SDET,  working with Bread Financial.
-@chittaranjan-swain-984b3558 (https://www.linkedin.com/in/chittaranjan-swain-984b3558)
-@The_Uncanny_Guy (https://twitter.com/The_Uncanny_Guy)
+A passionate software tester, QA Automation Engineer, SDET,  DevOps evangelist working with Bread Financial.
+@chittaranjan-swain (https://www.linkedin.com/in/chittaranjan-swain)
+@The_Uncanny_Guy (https://x.com/The_Uncanny_Guy)
 
 🔭 I’m currently using Selenium, Python, PyTest, Java, Cucumber, TestNG, Cypress, JavaScript, K6, GitHub Actions, Jenkins, Docker, Codefresh
 
@@ -24,11 +24,11 @@ Blogs posts
 https://chittaranjansw.blogspot.com/ 
 
 Connect with me:
-LinkedIn - [@chittaranjan-swain](https://www.linkedin.com/in/chittaranjan-swain/))
+LinkedIn - [@chittaranjan-swain](https://www.linkedin.com/in/chittaranjan-swain/)
 
 Twitter/X - [@The_Uncanny_Guy](https://x.com/The_Uncanny_Guy)
 
-Instagram - 
+Instagram handle - heyiamchitta
 
 
 Languages and Tools:
