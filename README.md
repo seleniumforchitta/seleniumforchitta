@@ -14,7 +14,7 @@ A passionate software tester, QA Automation Engineer, SDET,  DevOps evangelist w
 
 👨‍💻 All of my projects are available at https://github.com/seleniumforchitta 
 
-📝 I regularly write articles on https://medium.com/@iamchittaranjan
+📝 I regularly write articles on Medium - https://medium.com/@iamchittaranjan
 
 💬 Ask me about Testing Process,Cypress,Selenium,Framework SetUp, CI/CD, Cloud, Data or Codeing challenges on Python, Java, JavaScript
 
